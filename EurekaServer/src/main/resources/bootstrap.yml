@@ -1,0 +1,15 @@
+
+
+
+spring:
+  application:
+    name: eurekaserver
+  cloud:
+     config:       
+      name: eurekaserver
+      uri: http://localhost:8888
+  
+     
+  
+  #profiles:
+    #active: native
