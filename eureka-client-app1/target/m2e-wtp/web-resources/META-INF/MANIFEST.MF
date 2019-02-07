@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: eureka-client-app1
+Implementation-Version: 2.0.0-snapshots
+Built-By: barath
+Implementation-Vendor-Id: com.barath.cloud.samples
+Build-Jdk: 1.8.0_101
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/eureka-client-app1
+Created-By: Maven Integration for Eclipse
+
