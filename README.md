@@ -1,2 +1,3 @@
-# Eureka-Client-Feign-Sample
-This repository contains project samples for Eureka client with Netflix Feign implementation to communicate with other services
+# eureka-client-feign-demo
+
+This repository contains project samples for eureka client with open feign(declarative REST web client) implementation to communicate with other services.
